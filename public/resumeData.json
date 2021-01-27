@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "ANKIT VERMA",
+    "f_name": "Ankit",
+    "occupation": "Web Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "My name is Ankit, I'm a ReactJS Developer. Currently I'm working at Captain Techworld .",
+    "contactmessage": "You can contact me for development of FrontEnd projects",
+    "email": "imankit.v5@gmail.com",
+    "phone": "+917892224905",
+    "address": {
+      "street": "BEL Circle",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560013"
+    },
+    "website": "https://itsankitverma.github.io/",
+    "resumedownload": "https://drive.google.com/file/d/1P-KeRumOsmAe443eI5GP6FPyW4X580ba/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/itsmeankitverma",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ankitverma3/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/itsankitverma",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/itsankitverma",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "The techs that i like to code are: ",
+    "education": [
+      {
+        "school": "Acharya Institute of Technology",
+        "degree": "Master of Computer Application",
+        "graduated": "2018",
+        "description": "I have done two main projects, a minor project on virtual graphics."
+      },
+      {
+        "school": "Acharya Institute of Technology",
+        "degree": "Bachelor of Computer Application",
+        "graduated": "2016",
+        "description": "I have done two main projects in final last semesters."
+      }
+    ],
+    "work": [
+      {
+        "company": "Tartan Equity Group",
+        "title": "ReactJS Developer",
+        "years": "August 2020 to Present",
+        "description": "Worked as a ReactJS developer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+        {
+          "name": "JavaScript",
+          "level": "65%"
+        },
+        {
+          "name": "Git",
+          "level": "60%"
+        },
+        {
+          "name": "MongoDB",
+          "level": "40%"
+        }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tartan Equity Group.",
+        "category": "Frontend web application development",
+        "image": "active.jpeg",
+        "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4SXfkQaO41A/company-logo_200_200/0/1525119739293?e=2159024400&v=beta&t=FYQP3XgE0J_KgM7BxEQm37MFnakRuXo60IB-l_xbt_c"
+      },
+      {
+        "title": "BMI Calculator.",
+        "category": "Body Mass Index Calculator App",
+        "image": "bmi.JPG",
+        "url": "https://ankitbmicalculator.vercel.app/"
+      },
+      {
+        "title": "WEATHER APP.",
+        "category": "Personalised weather app",
+        "image": "weather.JPG",
+        "url": "https://github.com/itsankitverma/ankitbmicalculator"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "user": "Ankit",
+        "text": "Never Giveup before trying..."
+      }
+    ]
+  }
+}
